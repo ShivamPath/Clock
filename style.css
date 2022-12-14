@@ -1,0 +1,11 @@
+body{
+    background-color: coral;
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+#clock{
+    font-family: monospace;
+    font-size: 200%;
+    
+}
